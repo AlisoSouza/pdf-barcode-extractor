@@ -7,6 +7,7 @@ Fiz esse script porque tem uma empresa que me envia um boleto sem código de bar
 ### Linux (debian)
 
 ```sh
+sudo apt install tesseract-ocr
 sudo apt install libtesseract-dev
 
 poetry install
