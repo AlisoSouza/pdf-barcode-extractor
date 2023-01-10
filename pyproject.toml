@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pdf-barcode-extractor"
+version = "0.1.0"
+description = ""
+authors = ["Alisson <alissonfilipe937@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pdf_barcode_extractor"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyMuPDF = "^1.21.1"
+pytesseract = "^0.3.10"
+Pillow = "^9.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
