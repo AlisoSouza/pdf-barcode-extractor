@@ -1,6 +1,6 @@
 # pdf-barcode-extractor
 
-Fiz esse script porque tem uma empresa que me envia um boleto sem código de barras e com uma imagem do c ao invés do texto.
+Fiz esse script porque tem uma empresa que me envia um boleto sem código de barras e com uma imagem do código ao invés do texto.
 
 ## Instalação
 
